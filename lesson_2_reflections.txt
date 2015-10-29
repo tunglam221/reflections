@@ -1,0 +1,2 @@
+reflection 1: initializing a repository
+Reflection 2: staging area (vs working directory and repository)
