@@ -1,0 +1,17 @@
+Reflection questions 1
+Blah Blah
+
+Reflection question 2
+Blah BLah Blah
+
+Reflection 3 pros and cons of manually committing 
+
+Reflection 4 multiple files commits 
+
+Reflection 5 using git log and git diff to compare files in history
+
+Reflection 6 using git helps you feel more confident in making changes
+
+Reflection 7 how do you want to use git
+
+reflection 8 
